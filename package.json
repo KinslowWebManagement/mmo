@@ -1,0 +1,23 @@
+{
+  "name": "mmo",
+  "version": "1.0.0",
+  "description": "Following How To Make An MMO Tutorial On Youtube",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KinslowWebManagement/mmo.git"
+  },
+  "keywords": [
+    "kinslowweb",
+    "mmo"
+  ],
+  "author": "Joshua Kinslow (President - Kinslow Web Management)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KinslowWebManagement/mmo/issues"
+  },
+  "homepage": "https://github.com/KinslowWebManagement/mmo#readme"
+}
