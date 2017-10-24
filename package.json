@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/KinslowWebManagement/mmo/issues"
   },
-  "homepage": "https://github.com/KinslowWebManagement/mmo#readme"
+  "homepage": "https://github.com/KinslowWebManagement/mmo#readme",
+  "dependencies": {
+    "browserify": "^14.5.0",
+    "express": "^4.16.2",
+    "jade": "^1.11.0",
+    "socket.io": "^2.0.4"
+  }
 }
